@@ -8,7 +8,7 @@ A modern, responsive Admin Dashboard UI built with React, Vite & Tailwind CSS.
 
 ## 🌐 Live Demo
 
-🔗 https://github.com/KrGuddu/react-admin-dashboard
+🔗 https://my-admin-dash.netlify.app/
 
 ---
 
