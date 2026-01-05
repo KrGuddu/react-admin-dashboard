@@ -51,3 +51,13 @@ npm install
 
 # 4. Start the development server
 npm run dev
+
+```
+
+## 👨‍💻 Author
+**Mr. Guddu Kumar**  
+Frontend / React Developer
+
+🌐 Portfolio: https://guddudev.netlify.app
+
+🐙 GitHub: https://github.com/KrGuddu
