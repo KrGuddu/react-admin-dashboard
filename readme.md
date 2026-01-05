@@ -12,17 +12,17 @@ A modern, responsive Admin Dashboard UI built with React, Vite & Tailwind CSS.
 
 ---
 
+## 📂 GitHub Repository
+
+🐙 https://github.com/KrGuddu/react-admin-dashboard
+
+---
+
 ## 📸 Screenshots
 
 ![Demo App](/public/screenshot-for-readme-1.png)
 ![Demo App](/public/screenshot-for-readme-2.png)
 ![Demo App](/public/screenshot-for-readme-3.png)
-
----
-
-## 📂 GitHub Repository
-
-🐙 https://github.com/KrGuddu/react-admin-dashboard
 
 ---
 
